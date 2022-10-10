@@ -1,0 +1,15 @@
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem3hw/task2/obj/Debug/net7.0/task2.csproj.AssemblyReference.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem3hw/task2/obj/Debug/net7.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem3hw/task2/obj/Debug/net7.0/task2.AssemblyInfoInputs.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem3hw/task2/obj/Debug/net7.0/task2.AssemblyInfo.cs
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem3hw/task2/obj/Debug/net7.0/task2.csproj.CoreCompileInputs.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem3hw/task2/bin/Debug/net7.0/task2
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem3hw/task2/bin/Debug/net7.0/task2.deps.json
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem3hw/task2/bin/Debug/net7.0/task2.runtimeconfig.json
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem3hw/task2/bin/Debug/net7.0/task2.dll
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem3hw/task2/bin/Debug/net7.0/task2.pdb
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem3hw/task2/obj/Debug/net7.0/task2.dll
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem3hw/task2/obj/Debug/net7.0/refint/task2.dll
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem3hw/task2/obj/Debug/net7.0/task2.pdb
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem3hw/task2/obj/Debug/net7.0/task2.genruntimeconfig.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/Sem3hw/task2/obj/Debug/net7.0/ref/task2.dll
