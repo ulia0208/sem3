@@ -6,4 +6,4 @@ for (int i=0; i<=num; i++)
   k = i*i*i; 
   Console.Write($"{k}  " );
 }
-//return k;
+
